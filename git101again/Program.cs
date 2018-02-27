@@ -10,6 +10,7 @@ namespace git101again
     {
         static void Main(string[] args)
         {
+            System.Console.WriteLine("I'm being pushed to github")
         }
     }
 }
